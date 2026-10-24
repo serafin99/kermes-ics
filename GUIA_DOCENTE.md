@@ -49,3 +49,7 @@ El docente puede quitar aportes del muro y cerrar o reabrir la recepción. Las r
 ## Alcance del contenido
 
 18 preguntas de unidad 1; 22 de unidad 2; 18 de unidad 3; 8 cruces globales. Cada pregunta tiene respuesta, explicación, fuente y repregunta. La biblioteca permite buscar y revisar el banco. Las imágenes de Kant, Dussel y Wallerstein cuentan con atribuciones y licencias en la sección de créditos.
+
+## Autoría y licencia
+
+Serafin Gonzalez - Adscripto · 2026. Los contenidos didácticos propios se ofrecen bajo Creative Commons CC BY-NC-SA 4.0: compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. Las imágenes y los textos de terceros conservan sus propios derechos. Ver `LICENCIA.md` y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es .

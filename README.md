@@ -2,6 +2,10 @@
 
 Rosco, Preguntados y muro colectivo para el repaso previo al final de Introducción a las Ciencias Sociales.
 
+**Serafin Gonzalez - Adscripto** · 2026
+
+Contenido didáctico propio bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Se permite compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. El alcance y las excepciones se detallan en [LICENCIA.md](LICENCIA.md); el texto oficial está en [LICENSE](LICENSE).
+
 **[Entrar a la actividad](https://serafin99.github.io/kermes-ics/?sala=C4EC7B)**
 
 ## Cómo se conservan las respuestas
